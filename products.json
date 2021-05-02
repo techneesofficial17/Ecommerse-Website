@@ -1,0 +1,154 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Asus ZenBook 15",
+        "price": 999.99,
+        "image": { "fields": { "file": { "url": "./images/asuszenbook.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "FreeFire Account lev 70",
+        "price": 115.38,
+        "image": { "fields": { "file": { "url": "./images/free.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Among Us Pro Account",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/amongus.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Google Play Card",
+        "price": 9.99,
+        "image": { "fields": { "file": { "url": "./images/playcards.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Iphone 12 Pro",
+        "price": 932.99,
+        "image": { "fields": { "file": { "url": "./images/iphone.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "FortNite Account",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/Fortnite-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Lenevo Legion dual phone 2",
+        "price": 1303.99,
+        "image": { "fields": { "file": { "url": "./images/legion1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Clash Royale Account [13]",
+        "price": 130.99,
+        "image": { "fields": { "file": { "url": "./images/cr.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Steam lev 15 Account",
+        "price": 9003.99,
+        "image": { "fields": { "file": { "url": "./images/steam.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "XBOX Account Master",
+        "price": 1303.99,
+        "image": { "fields": { "file": { "url": "./images/xbox.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Epic Store account Pro",
+        "price": 1303.99,
+        "image": { "fields": { "file": { "url": "./images/epic.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "Counter Strike Global Offensive",
+        "price": 133.99,
+        "image": { "fields": { "file": { "url": "./images/counter.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "Microsoft Store Gamming Job",
+        "price": 1333.99,
+        "image": { "fields": { "file": { "url": "./images/msstore.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "Pubg Account ",
+        "price": 173.99,
+        "image": { "fields": { "file": { "url": "./images/pubg.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "Google Play Reedeem Code",
+        "price": 133.99,
+        "image": {
+          "fields": {
+            "file": { "url": "./images/Google-Play-Redeem-Code.png" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "17" },
+      "fields": {
+        "title": "Mobile Legends Account",
+        "price": 13.99,
+        "image": { "fields": { "file": { "url": "./images/ml.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "18" },
+      "fields": {
+        "title": "Macbook 17 Pro",
+        "price": 1333.99,
+        "image": { "fields": { "file": { "url": "./images/mac16.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "19" },
+      "fields": {
+        "title": "Best Gamming Setup ",
+        "price": 133333.99,
+        "image": {
+          "fields": { "file": { "url": "./images/gammingsetup.jpg" } }
+        }
+      }
+    }
+  ]
+}
